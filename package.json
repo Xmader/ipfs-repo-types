@@ -1,0 +1,24 @@
+{
+  "name": "@types/ipfs-repo",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/232c/ipfs-repo-types.git"
+  },
+  "author": "make1.app",
+  "license": "MIT",
+  "keywords": [
+    "@types",
+    "typescript",
+    "ipfs-repo"
+  ],
+  "bugs": {
+    "url": "https://github.com/232c/ipfs-repo-types/issues"
+  },
+  "homepage": "https://github.com/232c/ipfs-repo-types#readme",
+  "dependencies": {
+    "@types/interface-datastore": "^0.8.0",
+    "@types/node": "^12.12.27"
+  }
+}
