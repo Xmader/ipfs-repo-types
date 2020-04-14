@@ -19,6 +19,6 @@
   "homepage": "https://github.com/232c/ipfs-repo-types#readme",
   "dependencies": {
     "@types/interface-datastore": "^0.8.0",
-    "@types/node": "^12.12.27"
+    "@types/node": "*"
   }
 }
